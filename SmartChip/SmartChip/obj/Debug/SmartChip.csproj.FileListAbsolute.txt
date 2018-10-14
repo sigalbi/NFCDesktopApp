@@ -1,0 +1,5 @@
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\SmartChip\obj\Debug\SmartChip.csprojResolveAssemblyReference.cache
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\SmartChip\obj\Debug\SmartChip.LoginForm.resources
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\SmartChip\obj\Debug\SmartChip.Properties.Resources.resources
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\SmartChip\obj\Debug\SmartChip.UserMainForm.resources
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\SmartChip\obj\Debug\SmartChip.csproj.GenerateResource.Cache

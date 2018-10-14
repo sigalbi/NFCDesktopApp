@@ -1,0 +1,7 @@
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\טל מזרחי\documents\visual studio 2017\Projects\SmartChip\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
